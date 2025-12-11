@@ -1,5 +1,4 @@
-##Loan Prediction App
-Loan Prediction App
+##Loan Prediction Approval App##
 
 ##Description:
 A Streamlit web application that predicts whether a loan will be approved or rejected based on user-provided financial and personal details. Users can input parameters such as income, loan amount, credit score, number of dependents, education, employment status, loan duration, and assets to get an instant prediction.
